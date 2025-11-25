@@ -47,20 +47,34 @@
 
 ## 🌟 Featured Projects
 
-### [C++ Modules (42 Barcelona)](https://github.com/mpietrza/42_CPP_module_09)  
-Advanced object-oriented programming in C++, covering:
-- Exceptions, abstract classes, templates, STL, and advanced design concepts.
+### [Inception](https://github.com/mpietrza/42_inception_final)   
+Hands-on introduction to infrastructure management using Docker.
 
+### C++ Modules (42 Barcelona) 
+Advanced object-oriented programming in C++, covering
+exceptions, abstract classes, templates, STL, and advanced design concepts.
+
+[C++ module 00](https://github.com/mpietrza/42_CPP_module_00)
+[C++ module 01](https://github.com/mpietrza/42_CPP_module_01)
+[C++ module 02](https://github.com/mpietrza/42_CPP_module_02)
+[C++ module 03](https://github.com/mpietrza/42_CPP_module_03)
+[C++ module 04](https://github.com/mpietrza/42_CPP_module_04)
+
+[C++ module 05](https://github.com/mpietrza/42_CPP_module_05)
+[C++ module 06](https://github.com/mpietrza/42_CPP_module_06)
+[C++ module 07](https://github.com/mpietrza/42_CPP_module_07)
+[C++ module 08](https://github.com/mpietrza/42_CPP_module_08)
+[C++ module 09](https://github.com/mpietrza/42_CPP_module_09)
 ### [Cub3D](#)  
 A simple **graphics engine** in C using **raycasting** to render a 3D environment in Wolfenstein 3D style.
 
-### [Minishell](#)  
+### [Minishell](#)
 A basic **shell interpreter** with command parsing, environment variable handling, and signal management.
 
-### [Philosophers](#)  
+### [Philosophers](#)
 A multithreaded simulation of the **Dining Philosophers problem**.
 
-### [Push Swap](#)  
+### [Push Swap](#)
 Efficient **sorting algorithms** for stack-based data structures.
 
 ---
