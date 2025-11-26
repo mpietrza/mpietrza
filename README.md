@@ -10,7 +10,8 @@
 
 ## 👨‍💻 About Me
 - **Software Developer** with a strong foundation in **C** and **C++**, and experience in Linux environments.
-- Currently studying at **42 Barcelona**, working on projects in **systems**, **networking**, and **graphics development**.
+- Currently studying at **42 Barcelona**, working on the last project of the 'common core' cursus,
+- during the course worked on projects in **systems**, **networking**, and **graphics development**.
 - Over **10 years of prior professional experience** as an architect, bringing strong analytical and problem-solving skills to software development.
 - Passionate about **algorithms**, **debugging**, and **code optimization**.
 
