@@ -80,6 +80,8 @@ A multithreaded simulation of the **Dining Philosophers problem**.
 ### [Push Swap](https://github.com/mpietrza/42-push_swap)
 Efficient **sorting algorithms** for stack-based data structures.
 
+### [Libft](https://github.com/mpietrza/42-ft_libft_bonus)
+A custom implementation of essential C library functions, along with additional utility functions to extend the standard library.
 ---
 
 ## 💼 Professional Experience
