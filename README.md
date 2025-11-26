@@ -45,12 +45,12 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects done during the 'common core' in 42 Barcelona:
 
 ### [Inception](https://github.com/mpietrza/42_inception_final)   
 Hands-on introduction to infrastructure management using Docker.
 
-### C++ Modules (42 Barcelona) 
+### C++ Modules 
 Advanced object-oriented programming in C++, covering
 exceptions, abstract classes, templates, STL, and advanced design concepts.
 
@@ -65,16 +65,19 @@ exceptions, abstract classes, templates, STL, and advanced design concepts.
 [C++ module 07](https://github.com/mpietrza/42_CPP_module_07)
 [C++ module 08](https://github.com/mpietrza/42_CPP_module_08)
 [C++ module 09](https://github.com/mpietrza/42_CPP_module_09)
-### [Cub3D](#)  
+
+### [Cub3D](https://github.com/marcvador03/cub3d)
+This project was done in team of 2 persons with my collegue Marc.
 A simple **graphics engine** in C using **raycasting** to render a 3D environment in Wolfenstein 3D style.
 
-### [Minishell](#)
+### [Minishell](https://github.com/Gugor/42_minishell)
+This project was done in team of 2 persons with my collegue Hugo.
 A basic **shell interpreter** with command parsing, environment variable handling, and signal management.
 
-### [Philosophers](#)
+### [Philosophers](https://github.com/mpietrza/42-Philosophers)
 A multithreaded simulation of the **Dining Philosophers problem**.
 
-### [Push Swap](#)
+### [Push Swap](https://github.com/mpietrza/42-push_swap)
 Efficient **sorting algorithms** for stack-based data structures.
 
 ---
