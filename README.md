@@ -107,16 +107,6 @@ A custom implementation of essential C library functions, along with additional 
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpietrza&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpietrza&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Contact
 - **LinkedIn**: [linkedin.com/in/milosz-pietrzak](https://www.linkedin.com/in/milosz-pietrzak/)  
 
