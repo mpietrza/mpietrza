@@ -2,8 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/mpietrza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Graphics;Passionate+about+Problem+Solving;Always+Learning+and+Building;JavaScript;TypeScript;TailwindCSS;React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Graphics;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D7,100:00C6FF&height=4&section=header" alt="Animated bar" width="100%" />
 </p>
 
 ---
@@ -52,6 +56,7 @@
 Hands-on introduction to infrastructure management using Docker.
 
 ### [Transcendence](https://github.com/git-robi/ft_transcendence)
+A full-stack web project focused on real-time multiplayer gameplay, user management, authentication, and interactive frontend development.
 
 ### C++ Modules 
 Advanced object-oriented programming in C++, covering
