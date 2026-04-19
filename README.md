@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mpietrza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Graphics;Passionate+about+Problem+Solving;Always+Learning+and+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Graphics;Passionate+about+Problem+Solving;Always+Learning+and+Building;JavaScript;TypeScript;TailwindCSS;React" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - **Software Developer** with a strong foundation in **C** and **C++**, and experience in Linux environments.
-- Currently studying at **42 Barcelona**, working on the last project of the 'common core' cursus,
+- Recently finished the **common core** at **42 Barcelona**,  
 - during the course worked on projects in **systems**, **networking**, and **graphics development**.
 - Over **10 years of prior professional experience** as an architect, bringing strong analytical and problem-solving skills to software development.
 - Passionate about **algorithms**, **debugging**, and **code optimization**.
@@ -50,6 +50,8 @@
 
 ### [Inception](https://github.com/mpietrza/42_inception_final)   
 Hands-on introduction to infrastructure management using Docker.
+
+### [Transcendence](https://github.com/git-robi/ft_transcendence)
 
 ### C++ Modules 
 Advanced object-oriented programming in C++, covering
