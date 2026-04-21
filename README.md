@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mpietrza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Systems+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=TypeScript+%7C+JavaScript+%7C+React+%7C+Tailwind+CSS;C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Systems+Programming" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,11 +28,11 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Tools & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/-GNU%20Make-06599C?style=flat-square&logo=gnu&logoColor=white)
 ![MinilibX](https://img.shields.io/badge/-MinilibX-0078D7?style=flat-square)
@@ -91,6 +91,9 @@ A multithreaded simulation of the **Dining Philosophers problem**.
 
 ### [Push Swap](https://github.com/mpietrza/42-push_swap)
 Efficient **sorting algorithms** for stack-based data structures.
+
+### [So Long](https://github.com/mpietrza/42-so_long)
+A small 2D game in C using MinilibX, featuring map parsing, sprite rendering, and basic player movement.
 
 ### [Libft](https://github.com/mpietrza/42-ft_libft_bonus)
 A custom implementation of essential C library functions, along with additional utility functions to extend the standard library.
