@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mpietrza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Graphics;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Systems+Programming" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,6 +26,10 @@
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Tools & Libraries
@@ -46,7 +50,7 @@
 
 ## 📚 Education
 - **42 Barcelona** – Student Programmer (April 2023 – Present)
-- **Master’s Degree in Architecture and Urban Planning** – Gdańsk University of Technology, Poland (2004 – 2009)
+- **Master's Degree in Architecture and Urban Planning** – Gdańsk University of Technology, Poland (2004 – 2009)
 
 ---
 
