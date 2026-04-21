@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mpietrza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=TypeScript+%7C+JavaScript+%7C+React+%7C+Tailwind+CSS;C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Systems+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=750&lines=TypeScript+%7C+JavaScript+%7C+React+%7C+Tailwind+CSS;C+%26+C%2B%2B+Software+Developer;Linux+%7C+Algorithms+%7C+Systems+Programming" alt="Typing SVG" />
   </a>
 </p>
 
