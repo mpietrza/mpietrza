@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D7,100:00C6FF&height=4&section=header" alt="Animated bar" width="100%" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
