@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - **Software Developer** with a strong foundation in **JavaScript**, **TypeScript**, **React**, **TailwindCSS**, **C** and **C++**, and experience in Linux environments.
-- Recently finished the **common core** at **42 Barcelona** - a curriculum of 15 projects in a modern programming school based on knowledge sharing and peer-to-peer methodology,  
+- Recently finished the **common core** at **42 Barcelona** - a curriculum of 15 projects in a modern programming school based on knowledge sharing and peer-to-peer methodology.
 - during the course worked on projects in **IT project managment**, **frontend**, **systems**, **networking**, and **graphics development**.
 - Over **10 years of prior professional experience** as an architect, bringing strong analytical and problem-solving skills to software development.
 - Passionate about **algorithms**, **debugging**, and **code optimization**.
